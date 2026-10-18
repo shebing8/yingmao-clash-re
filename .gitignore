@@ -1,0 +1,14 @@
+# 样本与构建产物
+*.apk
+*.jar
+*.idsig
+*.keystore
+apktool_out/
+mod_out*/
+node_modules/
+
+# 系统
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
